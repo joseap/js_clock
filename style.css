@@ -1,0 +1,22 @@
+body {
+	background-color: white;
+}
+
+#clock {
+		width: 1024px;
+		margin: 250px auto;
+		text-align: center;
+}
+
+.colorful {
+	background-color: #fa0a31;
+}
+
+h1 {
+	font-family: 'Vollkorn', serif;
+	color: #c9d9d3;
+	font-size: 100px;
+	font-weight: 700;
+	font-style: italic;
+	text-transform: lowercase;
+}
